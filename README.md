@@ -50,6 +50,7 @@ Offline Mode
 
 ### Home Screen
 
+https://github.com/gabrielgonta/WeatherApp/blob/main/public/img/site-image-lg.jpg
 
 ## Security
 
