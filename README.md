@@ -52,16 +52,6 @@ Offline Mode
 
 ![](https://github.com/gabrielgonta/WeatherApp/blob/main/public/img/site-image-lg.jpg)
 
-## Security
-
-With Firebase security rules, your account, data, and files won’t fall into the wrong hands.
-
-### How it works
-
-Firebase security rules act as a barrier between your data and malicious users.
-
-Firebase security rules work by matching a pattern to database paths and then applying custom conditions to allow data access at those paths. Every Firebase feature rule has a path-matching component and a conditional statement that allows read or write access. Rules are defined for each Firebase feature in this application to ensure that only you can access your account information.
-
 ## Authors
 
 * **Gabriel Gonta** - *Initial work* - [WeatherApp](https://github.com/gabrielgonta/WeatherApp.git)
