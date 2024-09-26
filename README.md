@@ -37,10 +37,10 @@ You can now access the application via this address: http://localhost:8080/ :
 
 ## How I try to stand out
 
-  ✔️ Progressive Web App with offline support.
-  ✔️ Day & Night Themes adjust automatically based on time.
-  ✔️ Easy Temperature Conversion between Celsius and Fahrenheit.
-  ✔️ Fast and Responsive across all devices.
+    ✔️ Progressive Web App with offline support.
+    ✔️ Day & Night Themes adjust automatically based on time.
+    ✔️ Easy Temperature Conversion between Celsius and Fahrenheit.
+    ✔️ Fast and Responsive across all devices.
 
 ## Weather Forecast
 
@@ -50,7 +50,7 @@ Offline Mode
 
 ### Home Screen
 
-https://github.com/gabrielgonta/WeatherApp/blob/main/public/img/site-image-lg.jpg
+![](https://github.com/gabrielgonta/WeatherApp/blob/main/public/img/site-image-lg.jpg)
 
 ## Security
 
