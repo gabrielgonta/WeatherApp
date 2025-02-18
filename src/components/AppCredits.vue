@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <small>© <b><a href="https://github.com/gabrielgonta" target="_blank" rel="noopener">Gabriel Gonta</a></b> {{ year }} - A <cite>freeCodeCamp</cite> Project</small>
+    <small>© <b><a href="https://github.com/gabrielgonta" target="_blank" rel="noopener">Gabriel Gonta</a></b> {{ year }}</small>
   </footer>
 </template>
 

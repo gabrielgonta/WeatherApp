@@ -8,15 +8,16 @@
  * The rest of the code is auto-generated. Please don't update this file
  * directly; instead, make changes to your Workbox build configuration
  * and re-run your build process.
- * See https://goo.gl/YYPcyY
+ * See https://goo.gl/2aRDsh
  */
 
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+
 importScripts(
-  "/progressive-weather-app/precache-manifest.ab644820230c5211906cf74d93f4a4a3.js",
-  "https://storage.googleapis.com/workbox-cdn/releases/3.0.0-beta.0/workbox-sw.js"
+  "/WeatherApp/precache-manifest.1a3711a1bcc05413c72ca36cf54c82f0.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "PWeatherApp"});
+workbox.core.setCacheNameDetails({prefix: "WeatherApp"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
