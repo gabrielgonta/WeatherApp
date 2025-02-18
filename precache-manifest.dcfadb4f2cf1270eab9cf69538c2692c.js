@@ -48,16 +48,20 @@ self.__precacheManifest = [
     "url": "/WeatherApp/img/cloud.775ad4d1.svg"
   },
   {
-    "revision": "a81f0a400f3934c7d0d2dfbb791779b4",
-    "url": "/WeatherApp/img/morning.a81f0a40.jpg"
-  },
-  {
     "revision": "242ca2f39c270713473fa8d2996ba35e",
     "url": "/WeatherApp/img/night.242ca2f3.jpg"
   },
   {
+    "revision": "a81f0a400f3934c7d0d2dfbb791779b4",
+    "url": "/WeatherApp/img/morning.a81f0a40.jpg"
+  },
+  {
     "revision": "1d52ebbac5d4e1824a193f4f1a5fb443",
     "url": "/WeatherApp/index.html"
+  },
+  {
+    "revision": "aad4a214a2e3bbbcbd0fd3c6e0306825",
+    "url": "/WeatherApp/CNAME"
   },
   {
     "revision": "ed5e368f0f9f950ec5e66e08205936f3",
